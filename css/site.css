@@ -17,9 +17,7 @@ footer{
     background-color: var(--dark-color);
 }
 
-h1,h2,h3,h4,h5,h6{
-    color: var(--primary-color);
-}
+
 
 footer{
     padding-right: 1rem;
@@ -30,7 +28,8 @@ footer .social>a{
     opacity: 0.75;
 }
 footer .social>a:hover{
-    opacity:;
+    color: #022f4d
+    
 }
 
 .bsicon{
@@ -49,8 +48,8 @@ footer .social>a:hover{
     color: #0A71B8;
     }
 
-.checklist >li i{
-    color: var(--secondary-color);
+.checkList >li i{
+    color: #2186C8;
 }
 
 code[class*="language-"],
@@ -69,5 +68,3 @@ pre[class*="language-"] {
 
     main>.container {
     padding: 60px 15px 0;
-}
-
